@@ -1,0 +1,14 @@
+{
+  "1504739376": {
+    "step": null,
+    "prodotto": "Marocco farm",
+    "quantita": 1.5
+  },
+  "7954294064": {
+    "nome": "leo",
+    "cognome": "ladoxx",
+    "prodotto": "Marocco farm",
+    "step": null,
+    "quantita": 0.35
+  }
+}
